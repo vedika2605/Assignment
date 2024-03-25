@@ -1,0 +1,27 @@
+2024-03-22 14:35:25,987 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:37:57,440 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:38:36,566 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:39:33,282 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:43:41,113 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:44:46,392 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 14:45:17,027 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'cmd': 'demo.demo.Customization.Customer.export_Customer'}
+2024-03-22 15:00:17,081 ERROR frappe Error while inserting deferred Error Log record: Error Log ec4f713829: 'Title' ((1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.address_line2, addr.city, addr.pincode, addr.state,addr.country\n      from '...' at line 2")) will get truncated, as max characters allowed is 140
+Site: test2.com
+Form Dict: {}
+2024-03-22 15:13:31,902 ERROR frappe New Exception collected in error log
+Site: test2.com
+Form Dict: {'doctype': 'Job Apply', 'with_parent': '1', 'cached_timestamp': '2024-03-21 17:06:58.370337', 'cmd': 'frappe.desk.form.load.getdoctype'}

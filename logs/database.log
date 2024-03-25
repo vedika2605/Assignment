@@ -1,0 +1,211 @@
+2024-03-21 12:20:02,566 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 12:20:02,660 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `language` varchar(140)
+2024-03-21 12:20:31,590 WARNING database DDL Query made to DB:
+ALTER TABLE `tabJob Apply` ADD COLUMN `details` varchar(140)
+2024-03-21 12:24:06,546 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 12:24:06,547 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 12:24:06,548 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 12:24:06,612 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `framework` varchar(140), ADD COLUMN `ides` varchar(140)
+2024-03-21 12:24:53,254 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 12:24:53,255 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 12:24:53,255 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 12:24:53,325 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `applied_date` date, ADD COLUMN `initials` varchar(140)
+2024-03-21 12:33:14,934 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 12:33:14,936 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 12:33:14,937 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:08:25,886 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:08:25,896 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:08:25,898 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:08:26,134 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `testing_tools` varchar(140), ADD COLUMN `bug_tracking` varchar(140)
+2024-03-21 16:08:57,582 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:08:57,584 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:08:57,585 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:08:57,687 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `automation_experience` int(11) not null default 0
+2024-03-21 16:08:57,696 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:09:22,459 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:09:22,460 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:09:22,460 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:09:22,550 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `test_environment` varchar(140)
+2024-03-21 16:09:22,560 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:10:04,198 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:10:04,199 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:10:04,200 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:10:04,322 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `design_tools` varchar(140)
+2024-03-21 16:10:04,329 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:10:39,299 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:10:39,300 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:10:39,301 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:10:39,482 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `design_style` varchar(140)
+2024-03-21 16:10:39,496 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:10:55,556 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:10:55,557 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:10:55,557 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:10:55,649 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `colour_theory` varchar(140)
+2024-03-21 16:10:55,656 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:11:27,047 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:11:27,049 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:11:27,050 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:11:27,259 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `typography_skills` varchar(140)
+2024-03-21 16:11:27,264 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 16:12:05,249 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 16:12:05,250 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 16:12:05,251 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 16:12:05,436 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` ADD COLUMN `uiux_experience` int(11) not null default 0
+2024-03-21 16:12:05,459 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 17:04:30,430 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 17:04:30,432 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 17:04:30,433 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 17:04:30,548 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-21 17:06:58,269 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-21 17:06:58,269 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-21 17:06:58,270 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-21 17:06:58,364 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-22 12:13:24,433 WARNING database DDL Query made to DB:
+create table `tabClient` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`amended_from` varchar(140),
+`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index `amended_from`(`amended_from`),
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-03-22 12:16:51,321 WARNING database DDL Query made to DB:
+create table `tabFamily Members` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			parent varchar(140),
+parentfield varchar(140),
+parenttype varchar(140),
+index parent(parent))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-03-22 12:17:52,116 WARNING database DDL Query made to DB:
+alter table `tabFamily Members` add column if not exists parent varchar(140)
+2024-03-22 12:17:52,118 WARNING database DDL Query made to DB:
+alter table `tabFamily Members` add column if not exists parenttype varchar(140)
+2024-03-22 12:17:52,118 WARNING database DDL Query made to DB:
+alter table `tabFamily Members` add column if not exists parentfield varchar(140)
+2024-03-22 12:17:52,219 WARNING database DDL Query made to DB:
+ALTER TABLE `tabFamily Members` ADD COLUMN `name1` varchar(140), ADD COLUMN `age` int(11) not null default 0, ADD COLUMN `relation` varchar(140)
+2024-03-22 12:40:19,901 WARNING database DDL Query made to DB:
+create table `tabArticle` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-03-22 12:41:21,199 WARNING database DDL Query made to DB:
+ALTER TABLE `tabArticle` ADD COLUMN `article_name` varchar(140)
+2024-03-22 12:42:12,168 WARNING database DDL Query made to DB:
+ALTER TABLE `tabArticle` ADD COLUMN `image` text, ADD COLUMN `author` varchar(140), ADD COLUMN `description` longtext
+2024-03-22 12:42:36,712 WARNING database DDL Query made to DB:
+ALTER TABLE `tabArticle` ADD COLUMN `isbn` varchar(140)
+2024-03-22 12:43:47,250 WARNING database DDL Query made to DB:
+ALTER TABLE `tabArticle` ADD COLUMN `status` varchar(140)
+2024-03-22 12:44:00,691 WARNING database DDL Query made to DB:
+ALTER TABLE `tabArticle` ADD COLUMN `publisher` varchar(140)
+2024-03-22 15:16:11,824 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-22 15:16:11,828 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-22 15:16:11,829 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-22 15:16:11,964 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
+2024-03-22 15:21:36,694 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parent varchar(140)
+2024-03-22 15:21:36,695 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parenttype varchar(140)
+2024-03-22 15:21:36,695 WARNING database DDL Query made to DB:
+alter table `tabDetails` add column if not exists parentfield varchar(140)
+2024-03-22 15:21:36,767 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDetails` MODIFY `testing_tools` varchar(140)
